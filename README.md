@@ -1,7 +1,7 @@
 mytest
 ======
 
-First line
+First lines.
 ===========
 
 Second line.
@@ -10,7 +10,7 @@ Second line.
 Third line.
 ===========
 
-Fourth line
+Fourth line....
 ============
 
 Fifth Baby.
