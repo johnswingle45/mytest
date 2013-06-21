@@ -1,7 +1,7 @@
 mytest
 ======
 
-First line.
+First line
 ===========
 
 Second line.
