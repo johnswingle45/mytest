@@ -4,7 +4,7 @@ mytest
 First lines.
 ===========
 
-Second line.
+Second lines.
 ===========
 
 Third line.
